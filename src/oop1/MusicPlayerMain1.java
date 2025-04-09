@@ -23,9 +23,11 @@ public class MusicPlayerMain1 {
         // 음악 플레이어 상태
 
         System.out.println("음악 플레이어 상태 확인: ");
-        if(isOn){
-            System.out.println("음악 플레이어 ON, 볼륨: "+volumn);
-        } else
+        if (isOn) {
+            System.out.println("음악 플레이어 ON, 볼륨: " + volumn);
+        } else {
+            System.out.println("음악 플레이어 OFF");
+        }
         // 음악 플레이어 끄기
         isOn = false;
         System.out.println("음악 플레이어를 종료합니다.");
