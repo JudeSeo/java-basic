@@ -12,7 +12,7 @@ public class SpeakerMain {
         speaker.showVolumn();
 
         System.out.println("volumn 필드 직접 접근 수정");
-        speaker.volumn = 200;
+//        speaker.volumn = 200;
         speaker.showVolumn();
     }
 }
