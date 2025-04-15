@@ -1,4 +1,4 @@
-package com.access;
+package access;
 
 public class BankAccountMain {
     public static void main(String[] args) {

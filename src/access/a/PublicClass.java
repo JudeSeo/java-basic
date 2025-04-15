@@ -1,4 +1,4 @@
-package com.access.a;
+package access.a;
 
 public class PublicClass {
     public static void main(String[] args) {

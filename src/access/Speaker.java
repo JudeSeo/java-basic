@@ -1,4 +1,4 @@
-package com.access;
+package access;
 
 public class Speaker {
     private int volumn;

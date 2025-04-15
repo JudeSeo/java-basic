@@ -1,6 +1,6 @@
-package com.access.b;
+package access.b;
 
-import com.access.a.PublicClass;
+import access.a.PublicClass;
 
 public class PublicClassOuterMain {
     public static void main(String[] args) {

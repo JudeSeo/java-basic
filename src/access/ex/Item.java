@@ -1,4 +1,4 @@
-package com.access.ex;
+package access.ex;
 
 public class Item {
     private String productName;
